@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/3794764.jpg" width="800" alt="Professional Coding Banner">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="Professional Woman Working on Laptop in Dark Mode">
 </p>
 
 
