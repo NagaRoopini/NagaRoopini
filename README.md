@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="300" alt="Cyberpunk Coding">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" alt="Coffee and Coding">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
