@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="400" alt="Girl Dark Mode Coding">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="400" alt="Girl Coding Elegant Dark Mode">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 Education
+## 📚 Educationz
 
 - 🎓 **Vasireddy Venkatadri Institute of Technology (VVIT)**, B.Tech in Information Technology — *(2022–2026)*  
 - 🏫 **Narayana Junior College** — *(2020–2022)*  
