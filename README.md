@@ -1,7 +1,8 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" alt="Elegant Coding">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Girl Developer Coding">
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
 <h3 align="center">Aspiring IT Engineer | 💻 Developer | 🌟 Tech Enthusiast</h3>
