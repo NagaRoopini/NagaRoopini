@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" alt="Elegant Coding">
 </p>
 
-
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
 <h3 align="center">Aspiring IT Engineer | 💻 Developer | 🌟 Tech Enthusiast</h3>
 
