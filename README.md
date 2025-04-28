@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://i.imgur.com/z7qclgk.jpg" width="800" alt="Professional Coding Banner">
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="400" alt="Girl Working on Laptop Dark Mode">
 </p>
 
 
