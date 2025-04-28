@@ -1,7 +1,8 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Magical Coding Girl">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Girl Animation">
 </p>
+
 
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
