@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Girl Coding Animation">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="400" alt="Girl Dark Mode Coding">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
