@@ -1,7 +1,8 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="400" alt="Girl Focused Coding">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY1Ym94bmc2NGpjdjZ0cHVnZGJ2bGJoaTF3YWVsaWpsdm5scW9uYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Professional Girl Coding Dark Mode">
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
 <h3 align="center">Aspiring IT Engineer | 💻 Developer | 🌟 Tech Enthusiast</h3>
