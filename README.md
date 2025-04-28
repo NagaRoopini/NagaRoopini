@@ -1,7 +1,8 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" alt="Teamwork and Tech">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300" alt="Night Coding">
 </p>
+
 
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
