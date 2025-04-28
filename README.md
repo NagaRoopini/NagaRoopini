@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Animated Girl GIF">
+  <img src="	https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Animated Girl GIF">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
@@ -8,7 +8,7 @@
 
 ---
 
-🎓 I'm a B.Tech IT student at **Vasireddy Venkatadri Institute of Technology (VVIT)**, passionate about software development, web technologies, and building creative solutions through collaboration and innovation. I enjoy learning new tools, leading teams, and solving real-world problems.
+🎓 I'm a B.Tech IT student at **Vasireddy Venkatadri Institute of Technology (VVIT)**, passionate about software development, web technologies, and building creative solutions through collaboration and innovation. I enjoy learning new tools.
 
 ---
 
