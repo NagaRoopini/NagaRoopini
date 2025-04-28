@@ -1,5 +1,6 @@
+<!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/57/c6/8b57c66d2a8df724d1766fa0fe58a6ad.gif" width="400" alt="Girl Working Laptop Dark Mode Professional">
+  <img src="https://wallpaperaccess.com/full/3794764.jpg" width="800" alt="Professional Coding Banner">
 </p>
 
 
