@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" alt="Creative Coding">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Matrix Coding">
 </p>
 
 
