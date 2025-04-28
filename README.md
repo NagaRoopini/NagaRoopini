@@ -1,7 +1,8 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN3eHFrb25qYzV5eXJkcWg2ZWd5OGdhZGJ0NmM5dTF4dThxOWxxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Serious Girl Coding Dark Mode">
+  <img src="https://i.imgur.com/z7qclgk.jpg" width="800" alt="Professional Coding Banner">
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
 <h3 align="center">Aspiring IT Engineer | 💻 Developer | 🌟 Tech Enthusiast</h3>
@@ -12,7 +13,7 @@
 
 ---
 
-## 📚 Educationz
+## 📚 Education
 
 - 🎓 **Vasireddy Venkatadri Institute of Technology (VVIT)**, B.Tech in Information Technology — *(2022–2026)*  
 - 🏫 **Narayana Junior College** — *(2020–2022)*  
