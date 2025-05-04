@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/3794764.jpg" width="800" alt="Professional Coding Banner">
+  <img src="https://media.tenor.com/Yv6GzYujI4cAAAAC/anime-laptop.gif" width="350" alt="Anime Girl Working on Laptop">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
