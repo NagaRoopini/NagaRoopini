@@ -43,7 +43,6 @@
 
 ## 💼 Soft Skills
 
-✅ Team Leadership  
 ✅ Time Management  
 ✅ Collaboration  
 ✅ Communication  
