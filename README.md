@@ -1,7 +1,8 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.tenor.com/6D6kYVL-Rl0AAAAC/anime-coding.gif" width="350" alt="Anime Girl Coding on Laptop">
+  <img src="https://media.tenor.com/VN9o5CZTJYgAAAAC/programming-anime.gif" width="350" alt="Anime Girl Programming">
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
 <h3 align="center">Aspiring IT Engineer | 💻 Developer | 🌟 Tech Enthusiast</h3>
