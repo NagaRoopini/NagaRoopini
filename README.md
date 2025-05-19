@@ -1,6 +1,6 @@
 <!-- Banner or Animated GIF at the Top -->
 <p align="center">
-  <img src="https://media.tenor.com/Yv6GzYujI4cAAAAC/anime-laptop.gif" width="350" alt="Anime Girl Working on Laptop">
+  <img src="https://media.tenor.com/6D6kYVL-Rl0AAAAC/anime-coding.gif" width="350" alt="Anime Girl Coding on Laptop">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Battu Naga Roopini</h1>
