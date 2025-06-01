@@ -53,7 +53,7 @@
 
 ## 📜 Certifications
 
-- 🎖️ **Programming in Java** – NPTEL  
+- 🎖️ **NPTEL** – Programming in Java , Cloud Computing  
 - 🤖 **Google AI-ML Virtual Internship**  
 - 📱 **Google Android Development Internship**  
 - 🔒 **Palo Alto Cybersecurity Virtual Internship**
