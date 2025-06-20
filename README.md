@@ -65,7 +65,7 @@
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | 📄 **Dynamic Portfolio Generator** | Web application that allows users to build dynamic resumes by choosing templates and auto-generating portfolio pages. | HTML, CSS, JavaScript, Java, MySQL |
-
+| 🎲 **Math Crunch Game** | An interactive educational game to practice mathematical skills through engaging challenges and puzzles. | Python,HTML, CSS, JavaScript |
 ---
 
 ## 🌟 Achievements
