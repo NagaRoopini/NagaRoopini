@@ -16,7 +16,7 @@
 
 ## 📚 Education
 
-- 🎓 **VVITU**, B.Tech in Information Technology — *CGPA: 7.77* (2022–2026)  
+- 🎓 **VVIT**, B.Tech in Information Technology — *CGPA: 7.77* (2022–2026)  
 - 🏫 **Narayana Junior College** — *PERCENTAGE: 94.1%* (2020–2022)  
 - 🏫 **Krishna Chaitanya EM School** — *PERCENTAGE: 99%* (2019–2020) 
 
