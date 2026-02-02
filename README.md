@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Animated Girl GIF">
 </p>
-# 👋 Hi, I'm Battu Naga Roopini!
+<h3 align="center"> 👋 Hi, I'm Battu Naga Roopini!</h3>
 <h3 align="center">Aspiring IT Engineer | 💻 Developer | ☁️ Cloud & AI Enthusiast</h3>
 
 ---
