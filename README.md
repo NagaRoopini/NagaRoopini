@@ -28,9 +28,9 @@
 
 ### 📂 Projects
 
-🔹 **AutoResume**  
+🔹 **Folio2Resume**  
 _A Java + Spring Boot based application that allows users to register, log in, and create their own dynamic portfolio. Features include resume builder, template selection, and PDF download._  
-➡️ [View Repository](https://github.com/NagaRoopini/Dynamic-Portfolio)
+➡️ [View Repository](https://github.com/NagaRoopini/Folio2Resume)
 
 🔹 **MathPlay**  
 _A fun and interactive math-based game designed to improve problem-solving skills while keeping learning engaging. Built using HTML, CSS, JavaScript._  
