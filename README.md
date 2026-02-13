@@ -28,7 +28,7 @@
 
 ### 📂 Projects
 
-🔹 **Dynamic Portfolio Generator**  
+🔹 **AutoResume**  
 _A Java + Spring Boot based application that allows users to register, log in, and create their own dynamic portfolio. Features include resume builder, template selection, and PDF download._  
 ➡️ [View Repository](https://github.com/NagaRoopini/Dynamic-Portfolio)
 
