@@ -28,9 +28,17 @@
 
 ### 📂 Projects
 
+🔹 **Taskqora**  
+_A full-stack Team Task Management System built using Java, Spring Boot, Thymeleaf, MySQL, Bootstrap, and Chart.js. Features include secure Admin and Team Member authentication, project creation, task assignment, team management, profile settings, JWT security, cloud database integration, and live deployment. Designed to streamline team collaboration, productivity tracking, and organizational workflow._  
+➡️ [View Repository](https://github.com/NagaRoopini/Taskqora)  
+➡️ [Live Demo](https://taskqora.onrender.com)
+
+
 🔹 **Folio2Resume**  
 _A Java + Spring Boot based application that allows users to register, log in, and create their own dynamic portfolio. Features include resume builder, template selection, and PDF download._  
 ➡️ [View Repository](https://github.com/NagaRoopini/Folio2Resume)
+➡️ [Live Demo](https://taskqora.onrender.com)
+
 
 🔹 **MathPlay**  
 _A fun and interactive math-based game designed to improve problem-solving skills while keeping learning engaging. Built using HTML, CSS, JavaScript._  
