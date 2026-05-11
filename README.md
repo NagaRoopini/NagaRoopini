@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Animated Girl GIF">
 </p>
 <h3 align="center"> 👋 Hi, I'm Battu Naga Roopini!</h3>
-<h3 align="center">Aspiring IT Engineer | 💻 Developer | ☁️ Cloud & AI Enthusiast</h3>
+<h3 align="center">Aspiring Fullstack Software Engineer | 💻 Developer </h3>
 
 ---
 
 ### 💻 About Me
--  A passionate B.Tech Information Technology student, graduating in 2026.Participated in hands-on projects and internships at reputed organizations
----
 
+---  Aspiring Full Stack Software Engineer with experience in scalable web applications, APIs, and AI-driven workflows. Currently pursuing a B.Tech in Information Technology while developing my skills through internships and projects, I aim to contribute to impactful software solutions and enhance my technical expertise.
+   
 ## 📚 Education
 
 - 🎓 **VVIT**, B.Tech in Information Technology — *CGPA: 7.8* (2022–2026)  
