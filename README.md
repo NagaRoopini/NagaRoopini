@@ -37,7 +37,6 @@ _A full-stack Team Task Management System built using Java, Spring Boot, Thymele
 🔹 **Folio2Resume**  
 _A Java + Spring Boot based application that allows users to register, log in, and create their own dynamic portfolio. Features include resume builder, template selection, and PDF download._  
 ➡️ [View Repository](https://github.com/NagaRoopini/Folio2Resume)
-➡️ [Live Demo](https://taskqora.onrender.com)
 
 
 🔹 **MathPlay**  
