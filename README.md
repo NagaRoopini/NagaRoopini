@@ -20,10 +20,12 @@
 ---
 
 ### 🚀 Skills
-- **Languages:** Java, Python, C, SQL  
-- **Tools:** GitHub, VS Code, Spring Boot  
-- **Domains:** Cloud, AI/ML, Networking, Security  
-
+- **Languages:** Java, Python, C, SQL
+- **Web Technologies:** Node.js, MongoDB, HTML, CSS, SQL
+- **Core Subjects:** Data Structures, OOP, DBMS, Operating Systems, Computer Networks
+- **Tools:** GitHub, VS Code
+- **Soft Skills:** Teamwork, Active Listening, Time Management
+  
 ---
 
 ### 📂 Projects
