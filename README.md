@@ -47,17 +47,8 @@ _A fun and interactive math-based game designed to improve problem-solving skill
 
 ---
 
----
-
-### 📊 GitHub Stats
-![Roopini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaRoopini&show_icons=true&theme=radical)
-
 ### 🔥 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagaRoopini&theme=dark)
-
-### 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaRoopini&layout=compact&theme=tokyonight)
-
 
 ---
 
