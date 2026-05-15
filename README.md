@@ -41,10 +41,6 @@ _A Java + Spring Boot based application that allows users to register, log in, a
 ➡️ [View Repository](https://github.com/NagaRoopini/Folio2Resume)
 
 
-🔹 **MathPlay**  
-_A fun and interactive math-based game designed to improve problem-solving skills while keeping learning engaging. Built using HTML, CSS, JavaScript._  
-➡️ [View Repository](https://github.com/NagaRoopini/Math-Play)
-
 ---
 
 ### 🔥 Streak
