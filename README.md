@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
----  Aspiring Full Stack Software Engineer with experience in scalable web applications, APIs, and AI-driven workflows. Currently pursuing a B.Tech in Information Technology while developing my skills through internships and projects, I aim to contribute to impactful software solutions and enhance my technical expertise.
+---  Aspiring Full Stack Software Engineer with experience in scalable web applications, APIs, and AI-driven workflows. Recently completed B.Tech in Information Technology while developing my skills through internships and projects, I aim to contribute to impactful software solutions and enhance my technical expertise.
    
 ## 📚 Education
 
